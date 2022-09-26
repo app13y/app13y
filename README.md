@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Tom, a Software Engineer based in Palo Alto, USA:
+I'm Tom, a Software Engineer based in San Francisco Bay Area, USA:
 
 - I use C, Go, and Python daily.
 - Now: building the future of digital privacy at [Anjuna](https://www.anjuna.io).
